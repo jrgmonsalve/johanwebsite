@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "johangarcia-net": {
+      "hosting": {
+        "johanwebsite": [
+          "johangarcia-net"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "johangarcia-net"
+  }
+}
